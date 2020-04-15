@@ -64,4 +64,47 @@ usa-se os cochetes, x para marcar:
 - [ ] lista 02
 - [x] lista 03
 - [ ] lista 04
+***
+### Uso de links:
+Usa-se os colchetes e parêntesses:
+
+[google](https://www.google.com)
+
+[instituto hori](https://www.institutohori.com)
+
+***
+### Tabelas: usa-se os pipes
+
+num | nome | nota
+---|---|---
+1 | Bruno | 8.5
+2 | José | 10.0
+3 | Maria | 9.0
+
+terminou a tabela
+
+***
+### Comandos usa-se crases:
+ o que o comando `document.getElementById()` da linguagem JavaScript
+***
+### Trechos de Programas
+Usas-se três crases:
+
+Olha meu programa em python:
+
+```num = int(input('Digite um valor:')
+if num % 2 == 0:
+   print(f'O valor {num} é PAR')
+else:
+   print(f'O valor {num} é IMPAR')
+```
+***
+### Uso de Emojis
+Coloca-se dois pontos:
+
+:hand: :sunglasses:
+
+***
+###
+@bruno-ba
 
