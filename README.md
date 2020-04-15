@@ -1,3 +1,5 @@
+[header](my-stupendous-header)
+
 # Olá, Mundo
  Primeiro ***repositório*** do *curso* de Git e GitHub.
 
@@ -18,12 +20,14 @@ Com ~~dois tios~~.
 ### Podemos misturar configurações como Negrito e Itálico:
 Com __*dois underlines e um asterístico*__:
 ***
-### Títulos
+### (#Títulos)
+(#some-markdown-heading)
+(#Títulos)
 
 # Título Nível 1
 ## Título Nível 2
 ### Título Nível 3
-
+(my-stupendous-header)
 ***
 ### Linhas
 Com três asterísticos se formam uma linha
@@ -106,5 +110,5 @@ Coloca-se dois pontos:
 
 ***
 ###
-@bruno-ba
+Ancoras
 
