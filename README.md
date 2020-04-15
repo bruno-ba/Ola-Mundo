@@ -1,12 +1,9 @@
-[header](my-stupendous-header)
-
 # Olá, Mundo
  Primeiro ***repositório*** do *curso* de Git e GitHub.
 
  Repositório criado durante uma aula ao vivo.
 
 Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
-
 *** 
 # Testando a Linguagem Markdown:
 ## Aprendendo o uso da linguagem markdown
@@ -20,18 +17,13 @@ Com ~~dois tios~~.
 ### Podemos misturar configurações como Negrito e Itálico:
 Com __*dois underlines e um asterístico*__:
 ***
-### (#Títulos)
-(#some-markdown-heading)
-(#Títulos)
-
+###Títulos
 # Título Nível 1
 ## Título Nível 2
 ### Título Nível 3
-(my-stupendous-header)
 ***
 ### Linhas
 Com três asterísticos se formam uma linha
-
 ***
 ***
 ***
@@ -46,7 +38,6 @@ Número e um ponto:
 ***
 ### Listas Demarcadas
 Usa-se asterístico e espaço ou underline e espaço
-
 * Teste
 * Teste
 * Teste
@@ -60,7 +51,6 @@ Usa-se asterístico e espaço ou underline e espaço
 - Teste
    - Teste n1
 - Teste
-
 ***
 ### Lista de Tarefas
 usa-se os cochetes, x para marcar:
@@ -73,11 +63,10 @@ usa-se os cochetes, x para marcar:
 Usa-se os colchetes e parêntesses:
 
 [google](https://www.google.com)
-
 [instituto hori](https://www.institutohori.com)
-
 ***
-### Tabelas: usa-se os pipes
+### Tabelas: 
+usa-se os pipes
 
 num | nome | nota
 ---|---|---
@@ -86,7 +75,6 @@ num | nome | nota
 3 | Maria | 9.0
 
 terminou a tabela
-
 ***
 ### Comandos usa-se crases:
  o que o comando `document.getElementById()` da linguagem JavaScript
@@ -107,7 +95,6 @@ else:
 Coloca-se dois pontos:
 
 :hand: :sunglasses:
-
 ***
 ###
 Ancoras
